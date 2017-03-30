@@ -1,0 +1,12 @@
+F:\PS\OrderManagers\OrderManagers.BL\bin\Debug\OrderManagers.BL.dll.config
+F:\PS\OrderManagers\OrderManagers.BL\bin\Debug\OrderManagers.BL.dll
+F:\PS\OrderManagers\OrderManagers.BL\bin\Debug\OrderManagers.BL.pdb
+F:\PS\OrderManagers\OrderManagers.BL\bin\Debug\OrderManagers.DAL.dll
+F:\PS\OrderManagers\OrderManagers.BL\bin\Debug\OrderManagers.Models.dll
+F:\PS\OrderManagers\OrderManagers.BL\bin\Debug\MySql.Data.dll
+F:\PS\OrderManagers\OrderManagers.BL\bin\Debug\OrderManagers.DAL.pdb
+F:\PS\OrderManagers\OrderManagers.BL\bin\Debug\OrderManagers.Models.pdb
+F:\PS\OrderManagers\OrderManagers.BL\bin\Debug\MySql.Data.xml
+F:\PS\OrderManagers\OrderManagers.BL\obj\Debug\OrderManagers.BL.csprojResolveAssemblyReference.cache
+F:\PS\OrderManagers\OrderManagers.BL\obj\Debug\OrderManagers.BL.dll
+F:\PS\OrderManagers\OrderManagers.BL\obj\Debug\OrderManagers.BL.pdb

@@ -1,0 +1,6 @@
+F:\PS\OrderManagers\OrderManagers.Models\obj\Debug\OrderManagers.Models.csprojResolveAssemblyReference.cache
+F:\PS\OrderManagers\OrderManagers.Models\bin\Debug\OrderManagers.Models.dll.config
+F:\PS\OrderManagers\OrderManagers.Models\bin\Debug\OrderManagers.Models.dll
+F:\PS\OrderManagers\OrderManagers.Models\bin\Debug\OrderManagers.Models.pdb
+F:\PS\OrderManagers\OrderManagers.Models\obj\Debug\OrderManagers.Models.dll
+F:\PS\OrderManagers\OrderManagers.Models\obj\Debug\OrderManagers.Models.pdb

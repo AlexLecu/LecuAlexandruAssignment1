@@ -1,0 +1,15 @@
+f:\PS\OrderManagers\OrderManagers.DALTests\bin\Debug\OrderManagers.DALTests.dll
+f:\PS\OrderManagers\OrderManagers.DALTests\bin\Debug\OrderManagers.DALTests.pdb
+f:\PS\OrderManagers\OrderManagers.DALTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+f:\PS\OrderManagers\OrderManagers.DALTests\bin\Debug\MySql.Data.dll
+f:\PS\OrderManagers\OrderManagers.DALTests\bin\Debug\OrderManagers.DAL.dll
+f:\PS\OrderManagers\OrderManagers.DALTests\bin\Debug\OrderManagers.Models.dll
+f:\PS\OrderManagers\OrderManagers.DALTests\bin\Debug\OrderManagers.DAL.pdb
+f:\PS\OrderManagers\OrderManagers.DALTests\bin\Debug\OrderManagers.Models.pdb
+f:\PS\OrderManagers\OrderManagers.DALTests\bin\Debug\MySql.Data.xml
+f:\PS\OrderManagers\OrderManagers.DALTests\obj\Debug\OrderManagers.DALTests.csprojResolveAssemblyReference.cache
+f:\PS\OrderManagers\OrderManagers.DALTests\obj\Debug\OrderManagers.DALTests.dll
+f:\PS\OrderManagers\OrderManagers.DALTests\obj\Debug\OrderManagers.DALTests.pdb
+f:\PS\OrderManagers\OrderManagers.DALTests\bin\Debug\OrderManagers.BL.dll
+f:\PS\OrderManagers\OrderManagers.DALTests\bin\Debug\OrderManagers.BL.pdb
+f:\PS\OrderManagers\OrderManagers.DALTests\bin\Debug\OrderManagers.DALTests.dll.config
